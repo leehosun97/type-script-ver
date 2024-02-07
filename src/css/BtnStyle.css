@@ -1,0 +1,14 @@
+.off td {
+    background: #eee;
+    color: #ccc;
+  }
+  
+  button.btn-del {
+    margin-left: 10px;
+    color: #fff;
+    background-color: firebrick;
+  }
+
+.next-prev-wrap{display:flex; margin-top: 10px;}
+.next-btn{margin-left:auto;}
+.prev-btn{flex:none;}
